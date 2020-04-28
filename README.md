@@ -1,8 +1,7 @@
 # Maratona Dev - Projeto Doe  💻✔  
 
   
-<a href="https://naughty-thompson-67f4c5.netlify.app/"><h4> Acesse a Página<h4></a>
-  
+
 
 
 

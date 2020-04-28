@@ -14,7 +14,6 @@
 
 
 
-This project is under the MIT license. See the [LICENSE] (https://github.com/jeannzk021/Maratona-Dev-9.0) for details.)
-
+This project is under the MIT license. See the [LICENSE](https://github.com/jeannzk021/Maratona-Dev-9.0) for details.)
 
 by Jean Machado :wave: [Get in touch!](https://www.linkedin.com/in/jeanmachado021)🚀😎
